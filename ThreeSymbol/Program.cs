@@ -1,6 +1,4 @@
-﻿
-
-void ThreeSymbol(string[] arr)
+﻿void ThreeSymbol(string[] arr)
 {
     
     for (int i = 0; i < arr.Length; i++)
